@@ -12,7 +12,3 @@ Hi, I'm **Matthew**, *a.k.a* **MT** or **Mingde**
 Skills: Python / C++ / C / Emacs Lisp / Java / JS / more
 
 Please consider [sponsoring](https://github.com/sponsors/MatthewZMD/) me! ❤
-
-<a href="https://github.com/MatthewZMD">
-<img src="https://metrics.lecoq.io/MatthewZMD?base.metadata=0" />
-</a>
